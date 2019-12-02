@@ -1,0 +1,116 @@
+Laporan Kerja Hari Jumat , 29 November 2019 :
+
+Scrum Master : Ilham Maulana Habibie
+
+1. Ardiansah
+Yang dikerjakan hari ini :
+
+- Buat bespoke default,  repositori github.
+
+Yang akan di kerjakan selanjutnya:
+
+- Rapat pembahasan mengenai backlog dan sprint.
+
+Masalah yang di hadapi :
+
+- Tidak ada
+
+2. Ilham Maulana Habibie 
+
+Yang dikerjakan hari ini : 
+- Mengedit slide ke - 2 bagian deskripsi Kuri.
+
+Yang akan di kerjakan selanjutnya :
+
+- Mempelajari penggunaan dan pemakaian style di bespoke.js nya.
+
+Masalah yang di hadapi :
+
+- Masalah hak akses push origin master ditolak.
+
+- Masih error pada syntax gulp serve.
+
+3. Denisa Agung
+
+Yang dikerjakan hari ini :
+- Menambahkan gambar robot kuri.
+
+Yang akan dikerjakan selanjutnya :
+- Mempelajari penggunaan dan pemakaian style di bespoke.js nya dan gulp-stylus.
+
+Masalah yang dihadapi :
+- Masalah hak akses push origin master ditolak.
+
+
+
+Laporan Kerja Hari Senin , 2 Desember 2019 :
+
+Scrum Master : Ilham Maulana Habibie
+
+1. Jessica Bellawina
+
+Yang dikerjakan hari ini :
+- npm install.
+
+Yang akan dikerjakan selanjutnya :
+- Gulp-stylus.
+
+Masalah yang dihadapi :
+- gulp-autoprefixer.
+- npm audit fix.
+- belum bisa push.
+
+2. Preetha
+
+Yang dikerjakan hari ini:
+- npm install node js masih error.
+
+Yang akan dikerjakan selanjutnya
+- gulp serve.
+- Install gulp-stylus.
+
+Masalah yang dihadapi :
+- Belum bisa push.
+
+3. Ilham Maulana Habibie
+
+Yang dikerjakan hari ini:
+- Mencari solusi error dari gulp serve.
+- Merancang Backlog dan Sprint Backlog.
+- Merekapitulasi Laporan Kerja untuk setiap anggota tim kepada Scrum Master.
+
+Yang akan dikerjakan selanjutnya
+- Membuat slide tentang tim di bespoke.
+- Mencoba mencari solusi error untuk meload css / stylus.
+
+Masalah yang dihadapi :
+- gulp serve masih bermasalah.
+- Masih belum bisa ngepush dikarenakan akses izin ditolak.
+
+4. Denisa Agung
+
+Yang dikerjakan hari ini:
+- npm install stylus.
+
+Yang akan dikerjakan selanjutnya
+- Membuat slide tentang tim di bespoke.
+
+Masalah yang dihadapi :
+- gulp serve masih bermasalah dengan versi stylus.
+
+5. Ardiansah
+
+Yang dikerjakan hari ini:
+- Membuat board trello baru.
+- Menambahkan card backlog ke list.
+- Hapus template default.
+- Membahas pembuatan backlog bersama tim.
+
+Yang akan dikerjakan selanjutnya:
+- Membahas pembuatan sprint setiap backlog bersama tim.
+- Penerapan template.
+ 
+Masalah yang dihadapi :
+- Error pada saat push, pesan errornya
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ardiansah21/Presentasi_Bespoke_Kuri_TKPPL.git'
