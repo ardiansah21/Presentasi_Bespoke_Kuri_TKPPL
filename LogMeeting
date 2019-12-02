@@ -1,0 +1,54 @@
+Laporan Kerja Hari Senin , 2 Desember 2019 :
+
+Scrum Master : Ilham Maulana Habibie
+
+1. Jessica Bellawina
+
+Yang dikerjakan hari ini :
+- npm install.
+
+Yang akan dikerjakan selanjutnya :
+- Gulp-stylus.
+
+Masalah yang dihadapi :
+- gulp-autoprefixer.
+- npm audit fix.
+- belum bisa push.
+
+2. Preetha
+
+Yang dikerjakan hari ini:
+- npm install node js masih error.
+
+Yang akan dikerjakan selanjutnya
+- gulp serve.
+- Install gulp-stylus.
+
+Masalah yang dihadapi :
+- Belum bisa push.
+
+3. Ilham Maulana Habibie
+
+Yang dikerjakan hari ini:
+- Mencari solusi error dari gulp serve.
+- Merancang Backlog dan Sprint Backlog.
+- Merekapitulasi Laporan Kerja untuk setiap anggota tim kepada Scrum Master.
+
+Yang akan dikerjakan selanjutnya
+- Membuat slide tentang tim di bespoke.
+- Mencoba mencari solusi error untuk meload css / stylus.
+
+Masalah yang dihadapi :
+- gulp serve masih bermasalah.
+- Masih belum bisa ngepush dikarenakan akses izin ditolak.
+
+4. Denisa Agung
+
+Yang dikerjakan hari ini:
+- npm install stylus.
+
+Yang akan dikerjakan selanjutnya
+- Membuat slide tentang tim di bespoke.
+
+Masalah yang dihadapi :
+- gulp serve masih bermasalah dengan versi stylus
