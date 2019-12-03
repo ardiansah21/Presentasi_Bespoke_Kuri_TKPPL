@@ -114,3 +114,61 @@ Masalah yang dihadapi :
 - Error pada saat push, pesan errornya
  ! [rejected]        master -> master (non-fast-forward)
 error: failed to push some refs to 'https://github.com/ardiansah21/Presentasi_Bespoke_Kuri_TKPPL.git'
+
+Laporan Kerja Hari Jumat , 29 November 2019 :
+
+Scrum Master : Mas Agung Denisa Bekam
+Jessica
+Yang dikerjakan hari ini :
+Mengedit slide bagian deskripsi
+
+Yang akan dikerjakan selanjutnya :
+Mempelajari penggunaan dan pemakaian style di bespoke.js
+
+Masalah yang dihadapi :
+Tidak ada
+
+Preetha
+Yang dikerjakan hari ini:
+ install gulp 
+
+Yang akan dikerjakan selanjutnya : install BeSpokes 
+
+Masalah yang dihadapi :
+ Cannot find module gulp-autoprefixer
+ 
+Ilham
+Yang dikerjakan hari ini :
+- Membahas dan merancang sprint backlog.
+- Menambahkan Judul Slide Fitur - Fitur Kuri.
+- Mencari solusi untuk instalasi gulp , dan menjalankan gulp serve untuk menjalankan stylus nya.
+
+Yang akan dikerjakan selanjutnya :
+- Mengerjakan sprint backlog di bagian menjelaskan fitur fitur kuri.
+
+Masalah yang dihadapi :
+- gulp serve masih bermasalah dengan versi stylus dan pemasangan gulp masih bermasalah.
+
+Ardiansah
+Yang dikerjakan hari ini:
+- diskusi sprint setiap backlog bersama tim
+- menambahkan semua card sprint ke List Sprint-Backlog di trello
+- eksplore template theme bespoke
+- menambahkan proggres bar
+
+Yang akan dikerjakan selanjutnya
+- memerapkan template theme bespoke
+
+Masalah yang dihadapi :
+- penerapan template theme bespoke ke coding tidak sesuai dengan semestinya
+
+Agung 
+Yang dikerjakan hari ini:
+- Edit slide deskripsi dan fungsi Kuri
+- Update sprint di trello
+
+Yang akan dikerjakan selanjutnya
+- install npm cli gulp
+
+Masalah yang dihadapi :
+- gulp serve error throw.err
