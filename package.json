@@ -30,5 +30,8 @@
   },
   "engines": {
     "node": ">=4.2.0"
+  },
+  "dependencies": {
+    "serve": "^11.2.0"
   }
 }
