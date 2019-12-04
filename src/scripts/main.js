@@ -8,6 +8,7 @@ var hash = require('bespoke-hash');
 var multimedia = require('bespoke-multimedia');
 var extern = require('bespoke-extern');
 //theme
+var beachday = require('bespoke-theme-beachday');
 // var voltaire = require('bespoke-theme-voltaire');
 // var nebula = require('bespoke-theme-nebula');
 // //var greeny = require('bespoke-theme-greeny');
@@ -23,6 +24,7 @@ var extern = require('bespoke-extern');
 
 //PLUGIN
 var progress = require('bespoke-progress');
+//var insertCss = require('insert-css');
 
 
 
@@ -35,15 +37,8 @@ bespoke.from({ parent: 'article.deck', slides: 'section' }, [
   hash(),
   multimedia(),
   extern(bespoke),
-
-//THEME
-  //buildWars()
-  //voltaire(),
-    // greeny().theme(),
-    // greeny().scale()
-  //nebula()
-
-//PLUGIN
-progress()
+  progress(),
+  beachday(),
+  //insertCss()
 
 ]);
