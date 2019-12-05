@@ -1,4 +1,4 @@
-Laporan Kerja Hari Jumat , 29 November 2019 :
+Laporan Kerja Hari Jumat, 29 November 2019 :
 
 Scrum Master : Ilham Maulana Habibie
 
@@ -43,7 +43,7 @@ Masalah yang dihadapi :
 
 
 
-Laporan Kerja Hari Senin , 2 Desember 2019 :
+Laporan Kerja Hari Senin, 2 Desember 2019 :
 
 Scrum Master : Ilham Maulana Habibie
 
@@ -115,10 +115,12 @@ Masalah yang dihadapi :
  ! [rejected]        master -> master (non-fast-forward)
 error: failed to push some refs to 'https://github.com/ardiansah21/Presentasi_Bespoke_Kuri_TKPPL.git'
 
-Laporan Kerja Hari Jumat , 3 Desember 2019 :
+
+Laporan Kerja Hari Selasa, 3 Desember 2019 :
 
 Scrum Master : Mas Agung Denisa Bekam
-Jessica
+
+1. Jessica
 Yang dikerjakan hari ini :
 Mengedit slide bagian deskripsi
 
@@ -128,16 +130,16 @@ Mempelajari penggunaan dan pemakaian style di bespoke.js
 Masalah yang dihadapi :
 Tidak ada
 
-Preetha
+2. Preetha
 Yang dikerjakan hari ini:
- install gulp 
+install gulp 
 
 Yang akan dikerjakan selanjutnya : install BeSpokes 
 
 Masalah yang dihadapi :
  Cannot find module gulp-autoprefixer
  
-Ilham
+3. Ilham
 Yang dikerjakan hari ini :
 - Membahas dan merancang sprint backlog.
 - Menambahkan Judul Slide Fitur - Fitur Kuri.
@@ -149,7 +151,7 @@ Yang akan dikerjakan selanjutnya :
 Masalah yang dihadapi :
 - gulp serve masih bermasalah dengan versi stylus dan pemasangan gulp masih bermasalah.
 
-Ardiansah
+4. Ardiansah
 Yang dikerjakan hari ini:
 - diskusi sprint setiap backlog bersama tim
 - menambahkan semua card sprint ke List Sprint-Backlog di trello
@@ -162,7 +164,7 @@ Yang akan dikerjakan selanjutnya
 Masalah yang dihadapi :
 - penerapan template theme bespoke ke coding tidak sesuai dengan semestinya
 
-Agung 
+5. Agung 
 Yang dikerjakan hari ini:
 - Edit slide deskripsi dan fungsi Kuri
 - Update sprint di trello
@@ -173,10 +175,12 @@ Yang akan dikerjakan selanjutnya
 Masalah yang dihadapi :
 - gulp serve error throw.err
 
-Laporan Kerja Hari Jumat , 4 Desember 2019 :
+
+Laporan Kerja Hari Rabu, 4 Desember 2019 :
 
 Scrum Master : Mas Agung Denisa Bekam
-Preetha
+
+1. Preetha
 Yang dikerjakan hari ini:
  mengisi kekurangan modul yang terdapat pada nodejs 
 
@@ -185,7 +189,7 @@ Yang akan dikerjakan selanjutnya : buat pengerjaan in progress di trello
 Masalah yang dihadapi :
  Cannot find some module in nodejs
 
-Ardiansah
+2. Ardiansah
 Yang dikerjakan hari ini:
 - menginstall template theme bespoke
 
@@ -195,7 +199,7 @@ Yang akan dikerjakan selanjutnya
 Masalah yang dihadapi :
 - tidak ada
 
-Ilham
+3. Ilham
 Yang dikerjakan hari ini :
 - Menambahkan Slide Fitur Fitur yang terdapat pada Kuri.
 
@@ -205,7 +209,7 @@ Yang akan dikerjakan selanjutnya :
 Masalah yang dihadapi :
 - Tidak Ada.
 
-Jessica
+4. Jessica
 Yang dikerjakan hari ini :
 Menjelaskan perusahaan mayfield robotics
 
@@ -215,7 +219,7 @@ Penjelasan perusahaan mayfield robotic mengenai kuri
 Masalah yang dihadapi :
 Tidak ada
 
-Agung
+5. Agung
 Yang dikerjakan hari ini :
 - Memperbaiki error gulp dan push ke repost
 
